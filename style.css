@@ -5,7 +5,7 @@
 }
 @font-face {
     font-family: myfonts;
-    src: url(/Buttermilk.woff2);
+    src: url(./Buttermilk.woff2);
 }
 body{
     width: 100%;
